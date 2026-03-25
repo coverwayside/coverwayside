@@ -1,4 +1,4 @@
-## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤI only know how to program
+## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤI only know how to program
 ## Languages
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
